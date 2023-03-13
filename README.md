@@ -1,7 +1,9 @@
 # Koala Fintech Frontend
 *Based off Atomic React (**ARc**)*
 
-
+## To Do
+ - [ ] Integrate FireCMS / Firebase
+ - [ ] Add Grommet & configure with Storybook if necessarry (TBD)
 
 
 ## Setup
