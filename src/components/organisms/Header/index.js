@@ -27,7 +27,7 @@ const Header = (props) => {
   return (
     <Wrapper opaque reverse {...props}>
       <InnerWrapper>
-        <IconLink to="/" icon="arc" height={100} />
+        <IconLink to="/" icon="koala" height={150} />
         <PrimaryNavigation reverse />
       </InnerWrapper>
     </Wrapper>

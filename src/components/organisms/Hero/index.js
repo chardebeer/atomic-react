@@ -94,17 +94,10 @@ const Hero = (props) => {
         </Section>
         <Section>
           <Text>
-            <strong>ARc</strong>
+            <strong>Koala Fintech</strong>
             {' '}
-is a
-            <IconLink reverse icon="react" href="https://facebook.github.io/react/">React</IconLink>
+            A new age order pooling, matching & funding matching service
             {' '}
-starter kit based on the
-            <IconLink reverse icon="atomic-design" href="http://bradfrost.com/blog/post/atomic-web-design/">Atomic Design</IconLink>
-            {' '}
-methodology. It&apos;s
-            <strong>progressive</strong>
-, which means that you can start with the basic boilerplate and try the other features when you are comfortable.
           </Text>
           <Instructions>
             <Heading level={2} reverse>Install</Heading>
